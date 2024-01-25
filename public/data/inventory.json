@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "title": "Nike Phantom GX Elite",
+      "price": 299.99,
+      "img": "codingfuel",
+      "picked": false,
+      "id": 1
+    },
+    {
+      "title": "Nike Superfly",
+      "price": 279.99,
+      "img": "cssmug",
+      "picked": false,
+      "id": 2
+    },
+    {
+      "title": "Nike Mercurial",
+      "price": 218.29,
+      "img": "jsmug",
+      "picked": false,
+      "id": 3
+    },
+    {
+      "title": "Nike Tiempo",
+      "price": 259.99,
+      "img": "reactmug",
+      "picked": false,
+      "id": 4
+    },
+    {
+      "title": "Nike Phantom Elite 2",
+      "price": 323.99,
+      "img": "lovejs",
+      "picked": false,
+      "id": 5
+    },
+    {
+      "title": "Nike Phantom Luna",
+      "price": 181.99,
+      "img": "jssummer",
+      "picked": false,
+      "id": 6
+    }
+  ]
+}
